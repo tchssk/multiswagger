@@ -2,7 +2,7 @@
 
 A goa plugin package to generate multiple swagger specification files.
 
-[![license](https://img.shields.io/github/license/tchssk/multiswagger?maxAge=2592000)]()
+[![license](https://img.shields.io/github/license/tchssk/multiswagger.svg)]()
 
 ## Overview
 
