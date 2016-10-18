@@ -1,6 +1,6 @@
 # Multiswagger
 
-A goa plugin package to generate multiple swagger specification files.
+A [goa](https://github.com/goadesign/goa) plugin package to generate multiple swagger specification files.
 
 [![CircleCI](https://circleci.com/gh/tchssk/multiswagger.svg?style=shield&circle-token=7b399438f203142830a3a0bfd79e1d90d5cd9476)](https://circleci.com/gh/tchssk/multiswagger)
 [![license](https://img.shields.io/github/license/tchssk/multiswagger.svg)]()
